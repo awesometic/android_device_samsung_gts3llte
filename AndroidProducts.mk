@@ -14,7 +14,7 @@
 # limitations under the License.
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/lineage_gts3llte.mk
+    $(LOCAL_DIR)/havoc_gts3llte.mk
 
 COMMON_LUNCH_CHOICES := \
-    lineage_gts3llte-userdebug
+    havoc_gts3llte-userdebug
