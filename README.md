@@ -23,11 +23,11 @@
 <manifest>
     <project name="awesometic/android_device_samsung_gts3l-common"
         path="device/samsung/gts3l-common"
-        revision="lineage-18.1"
+        revision="havoc-eleven"
         remote="github" />
     <project name="awesometic/android_device_samsung_gts3llte"
         path="device/samsung/gts3llte"
-        revision="lineage-18.1"
+        revision="havoc-eleven"
         remote="github" />
     <project name="awesometic/android_kernel_samsung_msm8996"
         path="kernel/samsung/msm8996"
@@ -38,9 +38,9 @@
         path="device/samsung/qcom-common"
         revision="lineage-18.1"
         remote="github" />
-    <project name="LineageOS/android_hardware_samsung"
+    <project name="Havoc-Devices/android_hardware_samsung"
         path="hardware/samsung"
-        revision="lineage-18.1"
+        revision="eleven"
         remote="github" />
 </manifest>
 ```
