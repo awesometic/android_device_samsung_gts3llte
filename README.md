@@ -29,9 +29,13 @@
         path="device/samsung/gts3llte"
         revision="havoc-eleven"
         remote="github" />
+    <project name="awesometic/proprietary_vendor_samsung"
+        path="vendor/samsung"
+        revision="lineage-18.1"
+        remote="github" />
     <project name="awesometic/android_kernel_samsung_msm8996"
         path="kernel/samsung/msm8996"
-        revision="lineage-18.1"
+        revision="lineage-18.1-caf"
         remote="github" />
 
     <project name="LineageOS/android_device_samsung_qcom-common"
