@@ -51,7 +51,8 @@ PRODUCT_PACKAGES += \
     android.hardware.secure_element@1.2 \
     librmnetctl \
     libxml2 \
-    libprotobuf-cpp-full
+    libprotobuf-cpp-full \
+    secril_config_svc
 
 # Inherit from gts3l-common
 $(call inherit-product, device/samsung/gts3l-common/gts3l.mk)
