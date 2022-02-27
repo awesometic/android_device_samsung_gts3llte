@@ -31,11 +31,13 @@ PRODUCT_BRAND := samsung
 PRODUCT_MODEL := SM-T825
 PRODUCT_MANUFACTURER := samsung
 
+PRODUCT_SYSTEM_NAME := gts3llte
+
 PRODUCT_GMS_CLIENTID_BASE := android-samsung
 
 # Use the latest approved GMS identifiers
 PRODUCT_BUILD_PROP_OVERRIDES += \
-    PRODUCT_NAME=gts3llte \
+    TARGET_PRODUCT=gts3llte \
     PRIVATE_BUILD_DESC="gts3lltekx-user 9 PPR1.180610.011 T825N0KOU3CTD1 release-keys"
 
 # Set BUILD_FINGERPRINT variable to be picked up by both system and vendor build.prop
