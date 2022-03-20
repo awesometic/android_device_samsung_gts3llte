@@ -41,4 +41,4 @@ PRODUCT_BUILD_PROP_OVERRIDES += \
     PRIVATE_BUILD_DESC="gts3lltekx-user 9 PPR1.180610.011 T825N0KOU3CTD1 release-keys"
 
 # Set BUILD_FINGERPRINT variable to be picked up by both system and vendor build.prop
-BUILD_FINGERPRINT := "samsung/gts3lltekx/gts3llte:9/PPR1.180610.011/T825N0KOU3CTD1:user/release-keys"
+BUILD_FINGERPRINT := "samsung/gts3lltekx/gts3lltekx:9/PPR1.180610.011/T825N0KOU3CTD1:user/release-keys"
