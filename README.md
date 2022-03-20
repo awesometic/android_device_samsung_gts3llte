@@ -23,25 +23,24 @@
 <manifest>
     <project name="awesometic/android_device_samsung_gts3l-common"
         path="device/samsung/gts3l-common"
-        revision="lineage-19.0"
+        revision="lineage-19.1"
         remote="github" />
     <project name="awesometic/android_device_samsung_gts3llte"
         path="device/samsung/gts3llte"
-        revision="lineage-19.0"
+        revision="lineage-19.1"
         remote="github" />
-<!--
     <project name="awesometic/android_kernel_samsung_msm8996"
         path="kernel/samsung/msm8996"
-        revision="lineage-18.1"
+        revision="lineage-19.1-caf"
         remote="github" />
--->
-    <project name="LineageOS/android_device_samsung_qcom-common"
-        path="device/samsung/qcom-common"
-        revision="lineage-18.1"
+    <project name="awesometic/proprietary_vendor_samsung"
+        path="vendor/samsung"
+        revision="lineage-19.1"
         remote="github" />
+
     <project name="LineageOS/android_hardware_samsung"
         path="hardware/samsung"
-        revision="lineage-18.1"
+        revision="lineage-19.1"
         remote="github" />
 </manifest>
 ```
