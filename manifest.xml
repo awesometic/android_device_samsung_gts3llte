@@ -4,6 +4,7 @@
         <transport>hwbinder</transport>
         <fqname>@1.2::IRadio/slot1</fqname>
         <fqname>@1.2::ISap/slot1</fqname>
+        <fqname>@1.2::ISap/slot2</fqname>
     </hal>
     <hal format="hidl" override="true">
         <name>android.hardware.radio.config</name>
